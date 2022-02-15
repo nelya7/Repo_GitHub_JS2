@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top_container{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.products{
+    display: flex;
+    justify-content: space-between;
+}
